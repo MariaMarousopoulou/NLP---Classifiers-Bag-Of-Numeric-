@@ -1,5 +1,7 @@
 NLP - Classifiers (Bag Of & Numeric)
 
+This project was created by: George Skoufias, Marousopoulou Maria, Konstantinos Vrailas
+
 1. From the folder covid19-tweetCorpus unzip the file corona.zip and create a copy to the NLP - Classifiers (Bag Of & Numeric) folder.
 
 2. Run as administrator setup.bat. This batch file is safe to run. Its purpose is to create a virtual environment in the current directory. Subsequently, it runs inside this environment a series of pip install commands based on a dependency descriptor file – requirements.txt – that is also included in the folder. In this manner the transferred project becomes of minimum size. If run as administrator does not work, navigate inside the project folder using command prompt. Run setup.bat from there.
